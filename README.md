@@ -9,3 +9,5 @@ Calculate the area and perimeter of a circle with a given radius - circleareaper
 Calculate a moving average - movingavg.java
 
 Calculate the multiplication tables from 1 to N - tablemultiply.java
+
+Calculate the sum of the digits of an integer - integerdigitsum.java
