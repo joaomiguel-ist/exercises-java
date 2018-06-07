@@ -1,7 +1,4 @@
-# w3resource-java
-# fizzbuzz
-
-Some random exercises using Java
+# Some random exercises using Java # w3resource-java
 
 Calculate the average of 3 numbers the user inputs - 3numberavg.java	
 
@@ -14,3 +11,5 @@ Calculate the multiplication tables from 1 to N - tablemultiply.java
 Calculate the sum of the digits of an integer - integerdigitsum.java
 
 Calculate the number and value of coins to handle according to total max:50 (greedy) - letmycoinsgo.java
+
+Calculate the factorial using only one line - onelinefactorial.java
